@@ -41,7 +41,7 @@ Working directory: <your GOPATH>/bin
 Now let's configure a key combination for this:
 ----------------------------------------------
 
-In InjelliJ go to Preferences -> IDE Settings -> Keymap -> External Tools 
+In IntelliJK go to Preferences -> IDE Settings -> Keymap -> External Tools 
 -> Formatting Tools -> allfmt (double click)
 -> add keyboard shortcut
 
