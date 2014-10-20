@@ -1,5 +1,5 @@
-flexi-fmt
-=========
+allfmt
+======
 
 One entry point to all of your fmt tools like jsfmt, gofmt, dartfmt, etc'. This will call the matching `fmt` from your IDE of choice provided that **you have already installed jsfmt, gofmt, dartfmt etc'**
 
