@@ -1,7 +1,7 @@
 flexi-fmt
 =========
 
-One entry point to all of your fmt tools like jsfmt, gofmt, dartfmt, etc'
+One entry point to all of your fmt tools like jsfmt, gofmt, dartfmt, etc'. This will call the matching `fmt` from your IDE of choice provided that **you have already installed jsfmt, gofmt, dartfmt etc'**
 
 
 How to enable code formatting for dart, golang and more in Intellij/WebStorm
