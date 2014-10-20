@@ -26,7 +26,10 @@ Global options:
 
 Typically this will get executed from your `GOPATH/bin`
 
-Now in IntelliJ: Preferences -> IDE Settings -> External Tools create a new tool:
+Setting up this tool in IntelliJ:
+--------------------------------
+
+In IntelliJ: Preferences -> IDE Settings -> External Tools -> create a new tool(+):
 
 Fill in the dialog:
 ```
@@ -41,9 +44,10 @@ Working directory: <your GOPATH>/bin
 Now let's configure a key combination for this:
 ----------------------------------------------
 
-In IntelliJK go to Preferences -> IDE Settings -> Keymap -> External Tools 
+In IntelliJ go to Preferences -> IDE Settings -> Keymap -> External Tools 
 -> Formatting Tools -> allfmt (double click)
 -> add keyboard shortcut
 
 I chose alt-cmd-K because it's close to alt-cmd-L which is default Intellij for code formatting, but you can choose everything you want.
 
+You should be able to *fmt* any dart, go or js by hitting your chosed keyboard shortcut. Enjoy~
